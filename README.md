@@ -1,0 +1,2 @@
+# Tawi is an environmental project focused on creating awareness of goods/products that use eco-friendly technologies.
+In this project, I am creating a web platform that will allow users to access products, technology, and information that protect our environment from degradation.

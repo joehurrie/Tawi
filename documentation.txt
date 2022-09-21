@@ -1,0 +1,37 @@
+Tawi 
+
+About TAWI.
+
+Tawi is an environmental project focused on creating awareness of goods/products that use eco-friendly technologies.
+In this project, I will be creating a web platform that will allow users to access products, technology, and information that protect our environment from degradation.
+
+
+Project Goal.
+This project aims to create awareness of climate change and its effect on society.
+This project will provide efficient ways and methods that protect the environment from degradation.
+Promote technologies that impact sustainable development.
+
+
+Problems To Be Solved.
+
+Climate change.
+Water and Land pollution through toxic waste.
+Green Technologies Revolution.
+
+Proposed Solution.
+Tawi is a website platform that will enable users to access information about green technologies that are being developed to solve the climate change problem, by promoting
+these products we will create awareness of their existence thus impacting change in the environment.
+Our platform will focus on technologies and products that:
+a) Reduce pollution in the environment.
+b) Emit zero carbon in the atmosphere.
+c) Substitute fossil fuels.
+d) Promote sustainable development.
+e) Use Clean Energy(wind/solar).
+
+
+
+Our website will allow users to log on to the platform, and access information about eco-friendly products.
+Making purchases from the website.
+Our website will allow companies/vendors producing eco-friendly products to promote and sell their products.
+
+
